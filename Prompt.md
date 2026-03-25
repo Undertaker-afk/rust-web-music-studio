@@ -164,7 +164,7 @@ The project should use a `.dioxmus` file format for storing everything from audi
   "version": "1.0"
 }
 ```
-
+important the file is a archive that contains stuff like the audio files and the struktured data
 ### **2. Audio Engine**
 - Use `cpal` for audio I/O.
 - Implement a ring buffer for real-time audio processing.
